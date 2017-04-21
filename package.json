@@ -1,0 +1,26 @@
+{
+  "name": "svg-sprite-brunch-example",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Sergey V. Alimov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlimovSV/svg-sprite-brunch-example.git"
+  },
+  "keywords": [
+    "brunch",
+    "brunch-plugin",
+    "brunch-compiler",
+    "svg-sprite",
+    "svg"
+  ],
+  "scripts": {
+    "watch": "brunch watch",
+    "build": "brunch build"
+  },
+  "devDependencies": {
+    "brunch": "^2.10.9",
+    "svg-sprite-brunch": "^0.0.3"
+  }
+}
